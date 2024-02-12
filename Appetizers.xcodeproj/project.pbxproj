@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F9691E32B7A6FD500B95E95 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9691E22B7A6FD500B95E95 /* NetworkManager.swift */; };
 		2FFA260E2B794F24003A2260 /* AppetizersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FFA260D2B794F24003A2260 /* AppetizersApp.swift */; };
 		2FFA26102B794F24003A2260 /* AppetizerTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FFA260F2B794F24003A2260 /* AppetizerTabView.swift */; };
 		2FFA26122B794F25003A2260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FFA26112B794F25003A2260 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F9691E22B7A6FD500B95E95 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		2FFA260A2B794F24003A2260 /* Appetizers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appetizers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FFA260D2B794F24003A2260 /* AppetizersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizersApp.swift; sourceTree = "<group>"; };
 		2FFA260F2B794F24003A2260 /* AppetizerTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerTabView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				2FFA26232B7978BA003A2260 /* AppetizerListCell.swift */,
 				2FFA260F2B794F24003A2260 /* AppetizerTabView.swift */,
 				2FFA261B2B794F89003A2260 /* AppetizerListView.swift */,
+				2F9691E22B7A6FD500B95E95 /* NetworkManager.swift */,
 				2FFA261D2B794F97003A2260 /* AccountView.swift */,
 				2FFA261F2B794FA5003A2260 /* OrderView.swift */,
 				2FFA26112B794F25003A2260 /* Assets.xcassets */,
@@ -156,6 +159,7 @@
 				2FFA26242B7978BA003A2260 /* AppetizerListCell.swift in Sources */,
 				2FFA261E2B794F97003A2260 /* AccountView.swift in Sources */,
 				2FFA261C2B794F89003A2260 /* AppetizerListView.swift in Sources */,
+				2F9691E32B7A6FD500B95E95 /* NetworkManager.swift in Sources */,
 				2FFA26102B794F24003A2260 /* AppetizerTabView.swift in Sources */,
 				2FFA260E2B794F24003A2260 /* AppetizersApp.swift in Sources */,
 				2FFA26202B794FA5003A2260 /* OrderView.swift in Sources */,
